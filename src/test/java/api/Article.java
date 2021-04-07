@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.Objects;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
-import lombok.*;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Article {
